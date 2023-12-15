@@ -1,4 +1,4 @@
-#Task Manager
+#**Task Manager**
 
 The project's initial goal was to create a user-friendly task management webpage that would aid 
 users in effectively managing their daily tasks. In order to enhance the website's functioning and 
