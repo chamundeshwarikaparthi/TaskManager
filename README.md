@@ -1,5 +1,30 @@
 #**Task Manager**
 
+
+Task management webpage 
+aims to provide a straightforward 
+and user-friendly interface for 
+successfully managing tasks without 
+the need for in-depth training or 
+specialized knowledge.
+
+Task classification, analyzing 
+progress, and status, and handling 
+multiple tasks are some of the 
+important use cases that our website 
+supports to assist customers in 
+staying on top of their projects and 
+meeting deadlines. 
+
+The website strives to boost 
+productivity, lessen stress, and 
+ultimately assist users in achieving 
+their goals more rapidly by 
+streamlining the task management 
+process.
+
+
+
 The project's initial goal was to create a user-friendly task management webpage that would aid 
 users in effectively managing their daily tasks. In order to enhance the website's functioning and 
 design, we found multiple usability concerns throughout the semester and used a variety of 
